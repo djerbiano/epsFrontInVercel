@@ -172,7 +172,6 @@ function PageConnexion() {
               id="email"
               name="email"
               placeholder="Email"
-              defaultValue="saberghoudi2222@hotmail.f"
               onChange={handleChange}
             />
             <label htmlFor="password">Mot de passe :</label>
