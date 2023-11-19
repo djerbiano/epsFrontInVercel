@@ -14,7 +14,7 @@ const ContainerMeteo = styled.div`
 
 const ContainerInputAndButton = styled.div`
   & input {
-    width: 150px;
+    width: 151px;
     height: 30px;
     border: none;
     border-radius: 5px;

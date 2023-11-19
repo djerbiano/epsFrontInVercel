@@ -48,6 +48,7 @@ function App() {
           <Route path="/Register" element={<PageRegister />} />
         </Routes>
         <Analytics />
+        
       </AppContainer>
     </BrowserRouter>
   );
